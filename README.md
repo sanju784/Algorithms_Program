@@ -7,5 +7,7 @@ Sorting Algorithms
   4. Shel Sort
   5. Merge Sort
   6. Quick Sort
+  7. Countong Sort
+  8. Radix Sort
 
 
