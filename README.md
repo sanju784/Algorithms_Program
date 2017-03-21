@@ -11,4 +11,8 @@ Sorting Algorithms
   8. Bucket Sort
   9. Radix Sort
 
+Search Algorithm
+  1. Binary Search Without using recursion
+  2. Binary Search using recursion
+  3. Search in a Sorted Rotated Array
 
