@@ -9,7 +9,7 @@ void countSort(int a[], int n) {
 		c[a[i]] = c[a[i]] + 1;
 	for(i = 1; i<n;i++)
 		c[i]=c[i]+c[i-1];
-	for(j=n; j>0;j--){
+	for(j=n-1; j>=0;j--){
 		b[c[a[j]]-1] = a[j];
 		c[a[j]] = c[a[j]] - 1;
 	}
